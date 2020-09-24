@@ -24,6 +24,12 @@
 4. Merging back into master
 5. Solving conflicts
 
+
+# Conflict resolution
+1. make a change on develop
+2. make a change to the same line on a feature branch. 
+3. resolve the conflict
+
 # BONUS: Github Issues and Project boards
 1. Issues
 2. Project boards
