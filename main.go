@@ -6,7 +6,7 @@ func main() {
 	log.Println("Hello world !")
 	log.Println("This is the new-print branch")
 	PrintMyName("Sveinn")
-	PrintMyName("5")
+	PrintMyName("6")
 }
 
 func PrintMyName(name string) {
