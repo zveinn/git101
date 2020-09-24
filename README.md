@@ -6,3 +6,7 @@
 3. Git add --all == adding files to be saved
 4. Git commit == save changes to files in your repository
 5. Git push == send files to the remote server at github.com
+
+# switching branches
+1. git branch == make a new copy/branch
+2. git checkout [name] == moves you into a copy by that name

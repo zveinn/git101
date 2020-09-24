@@ -3,5 +3,6 @@ package main
 import "log"
 
 func main() {
-	log.Println("Hello world !, this is the second version")
+	log.Println("Hello world !")
+	log.Println("This is the new-print branch")
 }
